@@ -1,7 +1,8 @@
-# Inventory-Management-System
+# Inventory Management System
 
 ## Project Objective:
-The objective of this project was to develop an efficient inventory management system capable of handling various types of items. Throughout the development process, emphasis was placed on integrating sound design patterns, adhering to SOLID principles, following clean code practices, and adopting behavioral-driven development methodologies.
+
+The aim of this endeavor was to craft an efficient inventory management system, adept at handling diverse item types. During development, my focus was on seamlessly integrating robust design patterns, adhering strictly to SOLID principles, maintaining pristine code practices, and embracing behavioural-driven development methodologies for maximum efficacy.
 
 ### Key Constraints and Requirements:
 
